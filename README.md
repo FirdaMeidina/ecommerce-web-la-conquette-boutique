@@ -25,7 +25,7 @@ Website ini dibuat untuk memberikan pengalaman belanja online yang **mudah, inte
 1. Clone repository:
    ```bash
    git clone https://github.com/username/ecommerce-web-la-conquette-boutique.git
-````
+
 
 2. Import database MySQL dari file `database.sql`.
 3. Sesuaikan konfigurasi database di `config.php` atau `.env`.
